@@ -39,7 +39,7 @@
 ## Diagrama UML
 
 A modelagem do sistema segue o diagrama UML abaixo:
-![UML Banco](https://github.com/user-attachments/assets/267524e4-c5dd-4323-91ee-9dfe6eb60f35)
+![UML Banco](https://github.com/user-attachments/assets/bf94e326-6408-43fa-a51a-36d119fc2e3c)
 
 ## 📞 Contato
 
