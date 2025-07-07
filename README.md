@@ -1,6 +1,7 @@
-# 💳 Sistema Bancário: SantANDRÉ - V3 - POO
+# 💳 Sistema Bancário: SantANDRÉ - V3 e V4 - POO
 
-> Desafio da **DIO** focado na refatoração do sistema anterior, agora voltado para aplicar os princípios da Programação Orientada a Objetos (POO), como herança, polimorfismo, interfaces e classes abstratas.
+- Desafio 1: Refatorar o sistema anterior, para aplicar os princípios da Programação Orientada a Objetos (POO), como herança, polimorfismo, interfaces e classes abstratas.
+- Desafio 2: Tornar o projeto funcional.
 
 ## ✅ Requisitos do Projeto
 
