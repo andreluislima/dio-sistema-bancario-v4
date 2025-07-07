@@ -1,4 +1,4 @@
-# 💳 Sistema Bancário: SantANDRÉ - V3 e V4 - POO
+# Sistema Bancário: SantANDRÉ - V3 e V4 - POO
 
 - Desafio 1: Refatorar o sistema anterior, para aplicar os princípios da Programação Orientada a Objetos (POO), como herança, polimorfismo, interfaces e classes abstratas.
 - Desafio 2: Tornar o projeto funcional.
@@ -36,11 +36,10 @@
     - `Saque` (atributo: `valor`)
 
 
-## 📦 Diagrama UML
+## Diagrama UML
 
 A modelagem do sistema segue o diagrama UML abaixo:
-
-![UML Banco](./image.png)
+![UML Banco](https://github.com/user-attachments/assets/267524e4-c5dd-4323-91ee-9dfe6eb60f35)
 
 ## 📞 Contato
 
